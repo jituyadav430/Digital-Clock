@@ -26,6 +26,7 @@ function App(){
     <h6>Jitu Yadav</h6>
     <h5>Jitendra yadav</h5>
     <h5>testing mode</h5>
+    <h5>New testing mode</h5>
    </div>
    <Demo1/>
   </>
