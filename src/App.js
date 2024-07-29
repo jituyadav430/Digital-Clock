@@ -29,6 +29,7 @@ function App(){
     <h5>New developing mode</h5>
     <h5>Jitu kumar</h5>
     <h3>main pe changes</h3>
+    <h6>main pe fir se changes</h6>
    </div>
    <Demo1/>
   </>
