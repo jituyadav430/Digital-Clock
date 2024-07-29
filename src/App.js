@@ -1,5 +1,6 @@
 import './App.css';
 import {useState} from 'react';
+import Demo1 from './Demo1';
 
 
 
@@ -24,6 +25,7 @@ function App(){
    <div>
     <h6>Jitu Yadav</h6>
    </div>
+   <Demo1/>
   </>
   );
 }
