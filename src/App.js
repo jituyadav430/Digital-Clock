@@ -21,6 +21,9 @@ function App(){
    <h4 className="time"> {NewTime} </h4>
   <button className="time_btn" onClick={changeData}>Click me!</button>
    </div>
+   <div>
+    <h6>Jitu Yadav</h6>
+   </div>
   </>
   );
 }
