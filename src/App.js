@@ -30,6 +30,8 @@ function App(){
     <h5>Jitu kumar</h5>
     <h3>main pe changes</h3>
     <h6>main pe fir se changes</h6>
+    <h6>Rahul yadav</h6>
+    <p>rahul kumar</p>
    </div>
    <Demo1/>
   </>
