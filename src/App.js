@@ -26,6 +26,7 @@ function App(){
     <h6>Jitu Yadav</h6>
     <h5>New changes</h5>
     <h5>Developing mode</h5>
+    <h5>New developing mode</h5>
    </div>
    <Demo1/>
   </>
