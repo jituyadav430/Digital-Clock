@@ -24,6 +24,7 @@ function App(){
    </div>
    <div>
     <h6>Jitu Yadav</h6>
+    <h5>Jitendra yadav</h5>
    </div>
    <Demo1/>
   </>
