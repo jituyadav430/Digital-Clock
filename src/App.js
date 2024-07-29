@@ -23,7 +23,7 @@ function App(){
   <button className="time_btn" onClick={changeData}>Click me!</button>
    </div>
    <div>
-    <h6>Jitu Yadav</h6>
+    <h6>Jitu Yadav1</h6>
     <h5>New changes</h5>
     <h5>Developing mode</h5>
     <h5>New developing mode</h5>
